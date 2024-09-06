@@ -1,7 +1,7 @@
 # Basic Calculator App (HTML, CSS, JavaScript)
 This is a simple yet functional calculator app built using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides an intuitive and easy-to-use interface, styled with modern CSS, and allows users to input numbers and perform calculations directly in their browser.
 
-🚀 View Live - [View Live](https://vssaurabh10.github.io/Basic-Calculator-App/)
+🚀 View Live - [Click me](https://vssaurabh10.github.io/Basic-Calculator-App/)
 
 ## Screenshot
 
