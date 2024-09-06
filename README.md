@@ -3,6 +3,10 @@ This is a simple yet functional calculator app built using HTML, CSS, and JavaSc
 
 🚀 View Live - [View Live](https://vssaurabh10.github.io/Basic-Calculator-App/)
 
+## Screenshot
+
+![screenshot](my-calculator.png)
+
 ## Features:
 - Basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (×), and Division (÷)
 - Clean and minimalistic user interface
